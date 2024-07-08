@@ -1,4 +1,4 @@
-id-sum,anio,mes,dia,fecha,franja,tipo,subtipo,uso_arma,uso_moto,barrio,comuna,latitud,longitud,cantidad
+claim_id,anio,mes,dia,fecha,franja,tipo,subtipo,uso_arma,uso_moto,barrio,comuna,latitud,longitud,cantidad
 35495,2023,FEBRERO,MIERCOLES,2023-02-15,11,Robo,Robo total,NO,NO,VELEZ SARSFIELD,CC-10,"-34,633806","-58,484504",1
 35496,2023,NOVIEMBRE,JUEVES,2023-11-16,12,Robo,Robo total,NO,NO,VELEZ SARSFIELD,CC-10,"-34,637367","-58,49068",1
 35500,2023,MARZO,MARTES,2023-03-14,15,Robo,Robo total,NO,NO,VELEZ SARSFIELD,CC-10,"-34,636917","-58,482285",1
